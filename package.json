@@ -1,0 +1,20 @@
+{
+  "name": "ci3-auth",
+  "version": "0.1.0",
+  "description": "NodeJS auth for CodeIgniter3",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.9.x",
+  "mysql": "~2.5.x",
+  "php-unserialize": "~0.0.1",
+  "underscore": "~1.8.x",
+  "socket.io": "~1.3.x"
+  },
+  "keywords": [
+    "auth",
+    "codeigniter",
+    "nodejs"
+  ],
+  "author": "Avenart Design",
+  "license": "MIT"
+}
